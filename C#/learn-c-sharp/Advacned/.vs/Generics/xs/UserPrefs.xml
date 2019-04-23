@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2CE11FEA-DA9F-4F1E-93F8-E5665FE62947}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Delegates/PhotoProcessor.cs">
+    <Files>
+      <File FileName="Generics/Program.cs" Line="46" Column="29" />
+      <File FileName="Generics/Delegates/Photo.cs" Line="13" Column="32" />
+      <File FileName="Generics/Delegates/PhotoFilters.cs" Line="23" Column="10" />
+      <File FileName="Generics/Delegates/PhotoProcessor.cs" Line="10" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generics" expanded="True">
+            <Node name="Generics" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Delegates" expanded="True">
+                <Node name="PhotoProcessor.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

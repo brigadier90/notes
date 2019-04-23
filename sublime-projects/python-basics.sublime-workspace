@@ -1,0 +1,1581 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"possible_winnings"
+			],
+			[
+				"next",
+				"next_bet_Ammount"
+			],
+			[
+				"bet",
+				"bet_Ammount"
+			],
+			[
+				"pof",
+				"poFileTo"
+			],
+			[
+				"fund",
+				"found_value"
+			],
+			[
+				"msg",
+				"msgstr"
+			],
+			[
+				"poFile",
+				"poFileTo"
+			],
+			[
+				"poF",
+				"poFileFrom"
+			],
+			[
+				"TR",
+				"TRANSLATION_PATH_TO"
+			],
+			[
+				"TRA",
+				"TRANSLATION_PATH_FROM"
+			],
+			[
+				"scr",
+				"scrollOffset"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"scrol",
+				"scrollOffset"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ris",
+				"risk-management"
+			],
+			[
+				"top",
+				"topOfBannerContainer"
+			],
+			[
+				"s",
+				"scrollTop"
+			],
+			[
+				"bnner",
+				"bannerContainer"
+			],
+			[
+				"banner",
+				"bannerContainer"
+			],
+			[
+				"ele",
+				"elemTop"
+			],
+			[
+				"fxnet",
+				"fxnetBanner"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bg",
+				"bg-secondary"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bottom",
+				"bottom-padding-60"
+			],
+			[
+				"lazy",
+				"lazy-center"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ma",
+				"maxMQ"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"crypto",
+				"Cryptocurrencies"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"doc-risk-disclosure",
+				"doc-risk-disclosure-notice"
+			],
+			[
+				"to",
+				"top-margin-40"
+			],
+			[
+				"footer",
+				"footer-background"
+			],
+			[
+				"form",
+				"form-success-green"
+			],
+			[
+				"errors",
+				"errors_feedback"
+			],
+			[
+				"fee",
+				"FEEDBACK_ERRORS"
+			],
+			[
+				"gold",
+				"gold-background"
+			],
+			[
+				"silver",
+				"silver-background"
+			],
+			[
+				"bron",
+				"bronze-background"
+			],
+			[
+				"cont",
+				"content-padding-50"
+			],
+			[
+				"ove",
+				"overlay-color"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"color",
+				"color-primary"
+			],
+			[
+				"slides",
+				"slides-links-color"
+			],
+			[
+				"font",
+				"bottom-menu-font-color"
+			],
+			[
+				"bott",
+				"bottom-menu-font-color"
+			],
+			[
+				"fon",
+				"top-menu-font-color"
+			],
+			[
+				"main",
+				"main-menu-bottom-background"
+			],
+			[
+				"lazy-color",
+				"lazy-color-primary"
+			],
+			[
+				"colo",
+				"color-primary"
+			],
+			[
+				"Aller",
+				"Aller_Bd"
+			],
+			[
+				"sm",
+				"sm-width"
+			],
+			[
+				"md",
+				"md-width"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"cfd",
+				"cfd-description"
+			],
+			[
+				"menu",
+				"menu-red"
+			],
+			[
+				"lan",
+				"language-list"
+			],
+			[
+				"md-w",
+				"md-width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pre",
+				"previous-slider"
+			],
+			[
+				"butt",
+				"buttons-animation"
+			],
+			[
+				"but",
+				"buttons"
+			],
+			[
+				"button",
+				"buttons-container"
+			],
+			[
+				"con",
+				"content-slide-offset"
+			],
+			[
+				"re",
+				"responsivePropertyLg"
+			],
+			[
+				"my",
+				"myContent"
+			],
+			[
+				"bottom-menu-height",
+				"bottom-menu-height-md"
+			],
+			[
+				"hidden",
+				"hidden-xs"
+			],
+			[
+				"botto",
+				"bottom-menu-height-md"
+			],
+			[
+				"bot",
+				"bottomBar"
+			],
+			[
+				"margn",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"lang",
+				"languageList"
+			],
+			[
+				"langu",
+				"languagesButton"
+			],
+			[
+				"content",
+				"content-margin-70"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"max",
+				"maxMQ"
+			],
+			[
+				"tom",
+				"top-margin-50"
+			],
+			[
+				"confir",
+				"confirmUrl"
+			],
+			[
+				"account",
+				"account-types"
+			],
+			[
+				"investor",
+				"investor-compensation-fund"
+			],
+			[
+				"_b",
+				"_blank"
+			],
+			[
+				"def",
+				"doc_default_lang_prefix"
+			],
+			[
+				"app",
+				"appendixTitles"
+			],
+			[
+				"mini",
+				"minimizeButton"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"border-to",
+				"border-top-right-radius"
+			],
+			[
+				"bol",
+				"lazy-bold"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"la",
+				"LANGUAGE_CODE"
+			],
+			[
+				"Text",
+				"TextInput"
+			],
+			[
+				"cick",
+				"clickedItem"
+			],
+			[
+				"My",
+				"MyTemplateView"
+			],
+			[
+				"image",
+				"image-container"
+			],
+			[
+				"contet",
+				"content-margin-30"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"close",
+				"closePopup"
+			],
+			[
+				"url",
+				"url_without_lang"
+			],
+			[
+				"new",
+				"new_language"
+			],
+			[
+				"redi",
+				"redirect_url"
+			],
+			[
+				"for",
+				"form_class"
+			],
+			[
+				"splash",
+				"splashOpen"
+			],
+			[
+				"spla",
+				"splashOpen"
+			],
+			[
+				"LANA",
+				"LANGUAGE_CODE"
+			],
+			[
+				"metatra",
+				"metatrader4"
+			],
+			[
+				"conta",
+				"contact-us"
+			],
+			[
+				"accoun",
+				"account-types"
+			],
+			[
+				"acco",
+				"account-types"
+			],
+			[
+				"acc",
+				"account-types"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"inin",
+				"inline-block"
+			],
+			[
+				"im",
+				"image-container"
+			],
+			[
+				"laz",
+				"lazy-bold"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"outer",
+				"outerWidth"
+			],
+			[
+				"last",
+				"last-of-type"
+			],
+			[
+				"clear",
+				"clearFix"
+			],
+			[
+				"men",
+				"menu-font-grey"
+			],
+			[
+				"cle",
+				"clearFix"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_21_args_kwargs.py",
+			"settings":
+			{
+				"buffer_size": 395,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_04_for_loops.py",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_06_ranges.py",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_22_oop_in_depth/1_class_attributes.py",
+			"settings":
+			{
+				"buffer_size": 1475,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_18_filters.py",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_19_lambdas.py",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_20_decorators.py",
+			"settings":
+			{
+				"buffer_size": 457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_02_formating.py",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_07_functions.py",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_08_scope.py",
+			"settings":
+			{
+				"buffer_size": 518,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_09_dictionaries.py",
+			"settings":
+			{
+				"buffer_size": 939,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_10_sets_and_sorting.py",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\nclass Planet:\n\n\tdef __init__(self): #runs when we create an instance of this class- attaches properties to object\n\t\tself.name = 'Hoth' \n\t\tself.radius = '200000'\n\t\tself.gravity = 5.5\n\t\tself.system = 'Hoth System'\n\n\n\t#adding a function\n\tdef orbit(self): # MUST ALWAYS PASS SELF TO ALL FUNCTIONS\n\t\treturn '{0} is orbiting in the {1}'.format(self.name, self.system)\n\n\nhoth = Planet()\n\nprint('name: {0}'.format(hoth.name))\nprint('radius: {0}'.format(hoth.radius))\nprint('gravity: {0}'.format(hoth.gravity))\nprint('system: {0}'.format(hoth.system))\nprint(hoth.orbit())\n\n#problem: any new instance will have same properties - see lesson 12_init_function\n",
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_11_classes.py",
+			"file_size": 648,
+			"file_write_time": 131677614800000000,
+			"settings":
+			{
+				"buffer_size": 649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_15_bar_tab/Tab.py",
+			"settings":
+			{
+				"buffer_size": 625,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_12_init_function.py",
+			"settings":
+			{
+				"buffer_size": 718,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_13_methods_and_attributes.py",
+			"settings":
+			{
+				"buffer_size": 1656,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_14_modules_and_packages.py",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Brigadier90/notes/python/basics/lesson_17_maps.py",
+			"settings":
+			{
+				"buffer_size": 635,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Brigadier90/notes/python/basics",
+		"/Users/Brigadier90/notes/python/basics/lesson_22_oop_in_depth"
+	],
+	"file_history":
+	[
+		"/Users/Brigadier90/notes/python/basics/lesson_16_list_comprehension.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_09_dictionaries.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_06_ranges.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_02_formating.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_03_if_elif.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_05_while_loops.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_07_functions.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_18_filters.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_17_maps.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_10_sets_and_sorting.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_14_package/Planet.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_20_decorators.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_19_lambdas.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_14_modules_and_packages.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_15_bar_tab/Tab.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_11_classes.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_12_init_function.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_04_for_loops.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_13_methods_and_attributes.py",
+		"/Users/Brigadier90/notes/python/basics/lesson_21_args.py",
+		"/Users/Brigadier90/notes/python/basics/oop_in_depth/lesson_21_args",
+		"/Users/Brigadier90/Projects/polib/roullete.py",
+		"/Users/Brigadier90/Projects/polib/lesson_06_ranges.py",
+		"/Users/Brigadier90/Projects/polib/lesson_05_while_loops.py",
+		"/Users/Brigadier90/Projects/polib/lesson_04_for_loops.py",
+		"/Users/Brigadier90/Projects/polib/lesson_02_formating.py",
+		"/Users/Brigadier90/Projects/polib/lesson_07_functions.py",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/trade-responsibly/traderesponsibly/templates/about/contact-us.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/trade-responsibly/traderesponsibly/templates/main-menu.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/trade-responsibly/traderesponsibly/static/styles/styles.css",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/forms.py",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/urls.py",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/static/styles/styles.scss",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/index.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/scripts.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/crm-url-resolver.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/404.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/main-menu.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/header.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/base.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/views.py",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/footer.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/main-menu-html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/temp.html",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/settings.py",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/tradesbroker/settings.py",
+		"/Users/Brigadier90/Projects/project-traderesponsibly/traderesponsibly/manage.py",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/templates/base.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/instruments/templates/instruments/metals_page.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/instruments/templates/instruments/margin_requirements_page.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/instruments/templates/instruments/margin_calculator_page.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/instruments/templates/instruments/indices_page.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/instruments/templates/instruments/currencies_page.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/instruments/templates/blocks/instruments/instrument_list_block.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/css/analysis-and-education/analysis-and-education.scss",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/locale/pl/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/templates/footer.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/templates/crm-url-resolver.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/analysis_and_education/templates/analysis_and_education/forex_trading_page.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/home/templates/home/home_page.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/home/templates/blocks/cfd_slide_block.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/home/templates/blocks/instruments_block.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/css/home/home.scss",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/css/instruments/instruments.scss",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/analysis_and_education/views.py",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/css/rynki.scss",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/css/about/about.scss",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/css/slideshow/slideshow.scss",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/about/faqs-old.html",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/static/styles/main-menu/styles.scss",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/pl/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/fr/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/hr/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/trading-tools/market-hours.html",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/trading-tools/cfd-expiry-dates.html",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/sk/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/de/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/es/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/ro/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/ru/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/vi/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/zh_CN/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/zh_Hant/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/it/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/hu/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/el/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/locale/cs/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/accounts/open-demo-account.html",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/accounts/open-live-account.html",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/accounts/islamic-accounts.html",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/static/js/main-menu/main-menu-new.js",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/trading-tools/trading-platforms.html",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/static/styles/instruments/styles.scss",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/instruments/indices.html",
+		"/Users/Brigadier90/Projects/new-fxnet/new-fxnet-com/fxnet/templates/about/key-information-documents.html",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/js/instruments/margin-requirements.js",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/js/trading-tools/market-hours.js",
+		"/Users/Brigadier90/Projects/project-fxnet-com/fxnet/fxnet/templates/accounts/corporate-accounts.html",
+		"/Users/Brigadier90/Projects/project-fxnet-com/fxnet/fxnet/templates/about/key-information-documents.html",
+		"/Users/Brigadier90/Projects/project-fxnet-com/fxnet/fxnet/templates/about/pillars-iii-disclosures.html",
+		"/Users/Brigadier90/Projects/project-fxnet-com/fxnet/fxnet/templates/about/legal-documents.html",
+		"/Users/Brigadier90/Projects/project-fxnet-com/fxnet/static/styles/about/styles.scss",
+		"/Users/Brigadier90/Projects/project-fxnet-com/fxnet/fxnet/templates/about/about-our-company.html",
+		"/Users/Brigadier90/Projects/project-fxnet-com/fxnet/fxnet/templates/about/company-news.html",
+		"/Users/Brigadier90/Projects/project-fxnet-com/fxnet/fxnet/locale/hr/LC_MESSAGES/django.po",
+		"/Users/Brigadier90/Downloads/register.js",
+		"/Users/Brigadier90/Projects/project-rynki-cms/project-rynki/rynki/static/js/analysis-and-education/analysis-and-education.js",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/index.html",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/static/styles/main-menu-new/main-menu.scss",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/static/styles/partners/styles.scss",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/static/styles/trading/styles.scss",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/static/styles/accounts/styles.scss",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/static/styles.css",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/education/cfds.html",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/education/stocks.html",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/accounts/register.html",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/views.py",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/urls.py",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/education/forex.html",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/education/ebooks.html",
+		"/Users/Brigadier90/Projects/c_4xcme/c_4xcme/4xcme/static/styles/styles.scss",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/about/about-us-new.html",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/trading-tools/platforms-new.html",
+		"/Users/Brigadier90/Projects/project-fxnet-by/fxnet/fxnet/templates/tools-education/academy.html",
+		"/Users/Brigadier90/Projects/c_omefx/omefx/omefx/templates/instruments/commodities.html",
+		"/Users/Brigadier90/Projects/c_omefx/omefx/omefx/templates/main-menu.html",
+		"/Users/Brigadier90/Projects/c_omefx/omefx/omefx/templates/base.html",
+		"/Users/Brigadier90/Projects/c_omefx/omefx/omefx/templates/footer.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"−",
+			"      ",
+			"   "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 16,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_21_args_kwargs.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_04_for_loops.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_06_ranges.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_22_oop_in_depth/1_class_attributes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 5.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_18_filters.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_19_lambdas.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_20_decorators.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_02_formating.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_07_functions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_08_scope.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_09_dictionaries.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 379.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_10_sets_and_sorting.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 226.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_11_classes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_15_bar_tab/Tab.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								525,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_12_init_function.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_13_methods_and_attributes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_14_modules_and_packages.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/Users/Brigadier90/notes/python/basics/lesson_17_maps.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "python-basics.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"omefx/omefx/urls.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "mt4",
+		"selected_items":
+		[
+			[
+				"mt4",
+				"~/Projects/sublime-projects/mt4reports.sublime-project"
+			],
+			[
+				"re",
+				"~/Projects/sublime-projects/reports_api.sublime-project"
+			],
+			[
+				"python",
+				"~/notes/sublime-projects/python-basics.sublime-project"
+			],
+			[
+				"polib",
+				"~/Projects/sublime-projects/polib.sublime-project"
+			],
+			[
+				"poli",
+				"~/Projects/sublime-projects/polib.sublime-project"
+			],
+			[
+				"pol",
+				"~/Projects/sublime-projects/polib.sublime-project"
+			],
+			[
+				"rep",
+				"~/Projects/sublime-projects/reports_api.sublime-project"
+			],
+			[
+				"inter",
+				"~/Projects/sublime-projects/python_intermediate.sublime-project"
+			],
+			[
+				"reort",
+				"~/Projects/sublime-projects/reports_api.sublime-project"
+			],
+			[
+				"django",
+				"~/Projects/sublime-projects/django_rest_framework_tutorial.sublime-project"
+			],
+			[
+				"djang",
+				"~/Projects/sublime-projects/django_rest_framework_tutorial.sublime-project"
+			],
+			[
+				"django r",
+				"~/Projects/sublime-projects/django_rest_framework_tutorial.sublime-project"
+			],
+			[
+				"repor",
+				"~/Projects/sublime-projects/reports_api.sublime-project"
+			],
+			[
+				"rts",
+				"~/Projects/sublime-projects/rtsmarkets.sublime-project"
+			],
+			[
+				"fxnet",
+				"~/Projects/sublime-projects/fxnet-com-new.sublime-project"
+			],
+			[
+				"rynki",
+				"~/Projects/sublime-projects/rynki-cms.sublime-project"
+			],
+			[
+				"fxne",
+				"~/Projects/sublime-projects/fxnet-com-new.sublime-project"
+			],
+			[
+				"",
+				"~/Projects/sublime-projects/belfx-cms.sublime-project"
+			],
+			[
+				"new",
+				"~/Projects/new-fxnet/new-fxnet-com/fxnet/static/styles/home/fxnet-new.sublime-project"
+			],
+			[
+				"fxnet-by",
+				"~/Projects/fxnet-by.sublime-project"
+			],
+			[
+				"thesass",
+				"~/Projects/thesass-project.sublime-project"
+			],
+			[
+				"the sa",
+				"~/Projects/thesass-project.sublime-project"
+			],
+			[
+				"etra",
+				"~/Projects/project-rynki-cms/project-rynki/rynki/static/css/home/etrades.sublime-project"
+			],
+			[
+				"thesa",
+				"~/Projects/project-traderesponsibly/traderesponsibly/traderesponsibly/templates/thesass.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

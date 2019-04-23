@@ -1,0 +1,12 @@
+﻿<!--must use a directive to specify the type of model for this view-->
+@model Vidly.Models.Movie
+
+
+@{
+    ViewBag.Title = "Random";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--without directive cannot get name property of the movie since model is base class-->
+<h2>@Model.name</h2>
+

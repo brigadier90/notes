@@ -1,0 +1,6 @@
+#!/var/bin/bash
+
+#no spaces between var name and = sign
+HELLO="Hello, world!"
+
+echo $HELLO

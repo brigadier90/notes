@@ -1,0 +1,15 @@
+﻿<!--must use a directive to specify the type of model for this view-->
+@using Vidly.Models
+@model Vidly.Models.Movie
+
+
+@{
+    ViewBag.Title = "datapassing2";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>datapassing2</h2>
+<!--each item in ViewBag is of type object therefore we need to cast it to a movie-->
+<h2>@(((Movie)ViewBag.movie).name)</h2>
+
+<!--problems: complicated syntax + must change movie property in controller and here-->

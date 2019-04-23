@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# example ls /root will create an error (No such file or directory)
+
+# ls /root 2> errors.txt moves only errors to file
+
+#useful for debugging scripts: sh nameofscript 2> errors.txt --> then you can examine errors
+

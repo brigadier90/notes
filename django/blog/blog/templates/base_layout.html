@@ -1,0 +1,45 @@
+{% load static from staticfiles %}
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>BLOG</title>
+		<link rel="stylesheet" href="{% static 'styles.css'%}">
+		<!--<link rel="stylesheet" href="{% static 'articles/styles/styles.css'%}">
+		<link rel="stylesheet" href="{% static 'blog/styles/styles.css'%}"> This is how to link up to those static folders in each app-->
+	</head>
+
+	<body>
+
+		<div class="wrapper">
+
+			<div>
+				<a href="{% url 'articles:list' %}"><img class='blog' src="{% static 'blog.png'%}" alt=""></a>
+
+				{% if user.is_authenticated %}
+					<form action="{% url 'accounts:logout' %}" method="POST" class="logout-form">
+						{% csrf_token %}
+						<input type="submit" value="logout">
+					</form>
+				{% else %}
+					<a href="{% url 'accounts:login' %}">login</a>
+				{% endif %}
+
+				<a href="{% url 'articles:create' %}">Create Article</a>
+
+				<a href="{% url 'articles:create' %}">Create Article</a>
+			</div>
+
+			
+
+			
+			{% block content %}
+				
+			{% endblock %}
+
+		</div>
+
+		<script src="{% static 'bootstrap/js/bootstrap.js' %}"></script>
+	</body>
+</html>

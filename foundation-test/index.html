@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>FOUNDATION TEST</title>
+	<link rel="stylesheet" href="custom.css">
+
+<link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="slick/slick/slick-theme.css"/>
+</head>
+<body>
+
+
+<div class="off-canvas position-left" id="offCanvas" data-off-canvas>
+
+  
+
+        <ul class="vertical large-horizontal menu" data-responsive-menu="accordion large-dropdown">
+          <li><a class="menu-link" href="#0">HOME</a></li>
+          <li class="opens-right">
+            <a class="menu-link" href="#0">ABOUT US</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li class="opens-right"><a class="menu-link" href="#0">ACCOUNTS</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li class="opens-right">
+            <a class="menu-link" href="#0">INSTRUMENTS</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="menu-link" href="#0">PLATFORMS</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="menu-link" href="#0">TRADING TOOLS</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li>
+            <button type="button" class="button" id="register-button">Register</button>
+          </li>
+        </ul>
+
+
+
+</div>
+
+  
+  
+<div class="off-canvas-content" data-off-canvas-content>
+  <!-- Your page content lives here -->
+  <div data-sticky-container>
+    <div id="mobile-menu" data-responsive-toggle="responsive-menu" class="title-bar bg-white bar-shadow sticky" data-hide-for="large" data-sticky data-sticky-on="small" data-margin-top="0" >
+      <button class="menu-icon" type="button" data-toggle="offCanvas"></button>
+      <div class="title-bar-title"><a href="#"><img id="mobile-logo" src="img/logo.png" alt=""></a></div>
+    </div>
+  </div>
+
+  <div class="top-bar bg-primary show-for-large" id="top-menu">
+    <div class="top-bar-left">
+      <ul class="dropdown menu" data-dropdown-menu>
+        <li class="menu-text show-for-large">
+          <a class="link-white" id="contact-link" href="#">
+            <img id="contact-icon" src="img/contact.png" alt="">
+            Contact
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="top-bar-right">
+      <ul class="vertical large-horizontal menu" data-responsive-menu="accordion large-dropdown">
+        <li class="opens-right">
+          <a id="login-link" class="link-white" href="#0">
+            <img id="login-icon" src="img/log-in.png" alt="">
+            Login
+          </a>
+          
+        </li>
+        <li class="opens-left menu-text show-for-large text-white" id="languages-dropdown">
+          <img src="img/en.png" alt="">
+          <span class="text-white">English</span>
+          <ul class="submenu menu vertical align-left" data-submenu>
+            <li><a class="link-white" href="#0"><img src="img/km.png" alt=""> Cambodian</a></li>
+            <li><a class="link-white" href="#0"><img src="img/ja.png" alt=""> Japanese</a></li>
+            <li><a class="link-white" href="#0"><img src="img/ar.png" alt=""> Arabic</a></li>
+          </ul>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+  <div data-sticky-container>
+    <div class="top-bar bar-shadow sticky" id="responsive-menu" data-sticky data-options="marginTop:0;" style="width:100%;" data-top-anchor="top-menu:bottom" data-sticky-on="large">
+      <div class="top-bar-left show-for-large">
+        <ul class="dropdown menu" data-dropdown-menu>
+          <li class="menu-text show-for-large"><img id="menu-logo" src="img/logo.png" alt=""></li>
+        </ul>
+      </div>
+      <div class="top-bar-right">
+        <ul class="vertical large-horizontal menu" data-responsive-menu="accordion large-dropdown">
+          <li><a class="menu-link" href="#0">HOME</a></li>
+          <li class="opens-right">
+            <a class="menu-link" href="#0">ABOUT US</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li class="opens-right"><a class="menu-link" href="#0">ACCOUNTS</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li class="opens-right">
+            <a class="menu-link" href="#0">INSTRUMENTS</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="menu-link" href="#0">PLATFORMS</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="menu-link" href="#0">TRADING TOOLS</a>
+            <ul class="submenu menu vertical" data-submenu>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+              <li><a class="menu-dropdown-link" href="#0">About Company</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Legal Documents</a></li>
+              <li><a class="menu-dropdown-link" href="#0">Careers</a></li>
+            </ul>
+          </li>
+          <li>
+            <button type="button" class="button" id="register-button">Register</button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  	
+  <!--<h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus quo ab ducimus eveniet placeat nemo, itaque, tempore quae, et voluptatibus, dolorum quam nulla mollitia necessitatibus fuga odit ad ipsum odio.</h1>
+
+  <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus quo ab ducimus eveniet placeat nemo, itaque, tempore quae, et voluptatibus, dolorum quam nulla mollitia necessitatibus fuga odit ad ipsum odio.</h1>
+
+  <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus quo ab ducimus eveniet placeat nemo, itaque, tempore quae, et voluptatibus, dolorum quam nulla mollitia necessitatibus fuga odit ad ipsum odio.</h1>
+
+  <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus quo ab ducimus eveniet placeat nemo, itaque, tempore quae, et voluptatibus, dolorum quam nulla mollitia necessitatibus fuga odit ad ipsum odio.</h1>
+
+  <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus quo ab ducimus eveniet placeat nemo, itaque, tempore quae, et voluptatibus, dolorum quam nulla mollitia necessitatibus fuga odit ad ipsum odio.</h1>-->
+
+  <!--<div class="your-class">
+    <div><img src="img/1.jpg" alt=""></div>
+    <div><img src="img/2.jpg" alt=""></div>
+    <div><img src="img/3.jpg" alt=""></div>
+  </div>-->
+
+  <div id="hero-slider">
+    <div class="hero-slide">
+
+        <img src="img/1.jpg" alt="">
+
+        <div class="content-container">
+          <div class="grid-container">
+            <div class="grid-x hero-content align-middle">
+              <div class="cell small-12 align-center text-left">
+                <h2 data-animation="fadeIn" data-delay="0.5s"><span>COMPETITIVE TRADING CONDITIONS</span></h2>
+                <p data-animation="fadeInLeft" data-delay="0.7s"><span>Low spreads starting from 0 pops</span></p>
+                <p data-animation="fadeInLeft" data-delay="1.1s"><span>Leverage up to 1:500</span></p>
+                <p data-animation="fadeInLeft" data-delay="1.5s"><span>More Than 180 Trading Instruments</span></p>
+              </div> 
+            </div>
+          </div>  
+        </div>   
+    </div>
+
+    <div class="hero-slide">
+
+        <img src="img/2.jpg" alt="">
+
+        <div class="content-container">
+          <div class="grid-container">
+            <div class="grid-x hero-content align-middle">
+              <div class="cell small-12 align-center text-left">
+                <h2 data-animation="fadeIn" data-delay="0.5s"><span>COMPETITIVE TRADING CONDITIONS</span></h2>
+                <p data-animation="fadeInLeft" data-delay="0.7s"><span>Low spreads starting from 0 pops</span></p>
+                <p data-animation="fadeInLeft" data-delay="1.1s"><span>Leverage up to 1:500</span></p>
+                <p data-animation="fadeInLeft" data-delay="1.5s"><span>More Than 180 Trading Instruments</span></p>
+              </div> 
+            </div>
+          </div>  
+        </div>   
+    </div>
+
+    <div class="hero-slide">
+
+        <img src="img/3.jpg" alt="">
+
+        <div class="content-container">
+          <div class="grid-container">
+            <div class="grid-x hero-content align-middle">
+              <div class="cell small-12 align-center text-left">
+                <h2 data-animation="fadeIn" data-delay="0.5s"><span>COMPETITIVE TRADING CONDITIONS</span></h2>
+                <p data-animation="fadeInLeft" data-delay="0.7s"><span>Low spreads starting from 0 pops</span></p>
+                <p data-animation="fadeInLeft" data-delay="1.1s"><span>Leverage up to 1:500</span></p>
+                <p data-animation="fadeInLeft" data-delay="1.5s"><span>More Than 180 Trading Instruments</span></p>
+              </div> 
+            </div>
+          </div>  
+        </div>   
+    </div>
+
+
+</div>
+
+  <h1>Select your category</h1>
+  <ul>
+    <li><a href="https://app.smartsheet.com/b/form/98a81c518114474285b1a4718dfb44b2">Websites (front End)</a></li>
+    <li><a href="https://app.smartsheet.com/b/form/4ba3882d14144260a666f89127ab42eb">Marketing</a></li>
+  </ul>
+</div>
+
+
+
+	
+
+	<!-- jQuery must be imported before Foundation -->
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<!-- this will include every plugin and utility required by Foundation -->
+	<script src="bower_components/foundation-sites/dist/js/foundation.min.js"></script>
+
+	
+
+  <script type="text/javascript" src="slick/slick/slick.min.js"></script>
+  <script type="text/javascript" src="slideshow.js"></script>
+
+  <script>
+    $(document).foundation();
+  </script>
+</body>
+</html>

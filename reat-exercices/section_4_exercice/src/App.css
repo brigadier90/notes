@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  margin: 40px;
+}
+
+.CharComponent {
+	display: inline-block;
+	padding: 16px;
+	text-align: center;
+	margin: 16px;
+	border: 1px solid black;
+	cursor: pointer;
+}
+
+

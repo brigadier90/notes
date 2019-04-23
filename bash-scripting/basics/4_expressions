@@ -1,0 +1,7 @@
+#!/bin/bash
+
+num1=100
+num2=3
+
+#in expr comman, multiplication has to be escaped because asteriks is wildcard
+expr $num1 \* $num2

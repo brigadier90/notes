@@ -1,0 +1,6 @@
+/Users/Brigadier90/notes/C#/learn-c-sharp/Generics/Generics/bin/Debug/Generics.exe
+/Users/Brigadier90/notes/C#/learn-c-sharp/Generics/Generics/bin/Debug/Generics.pdb
+/Users/Brigadier90/notes/C#/learn-c-sharp/Generics/Generics/obj/x86/Debug/Generics.csprojAssemblyReference.cache
+/Users/Brigadier90/notes/C#/learn-c-sharp/Generics/Generics/obj/x86/Debug/Generics.csproj.CoreCompileInputs.cache
+/Users/Brigadier90/notes/C#/learn-c-sharp/Generics/Generics/obj/x86/Debug/Generics.exe
+/Users/Brigadier90/notes/C#/learn-c-sharp/Generics/Generics/obj/x86/Debug/Generics.pdb

@@ -1,0 +1,6 @@
+/Users/Brigadier90/notes/C#/learn-c-sharp/learn-c-sharp/bin/Debug/learn-c-sharp.exe
+/Users/Brigadier90/notes/C#/learn-c-sharp/learn-c-sharp/bin/Debug/learn-c-sharp.pdb
+/Users/Brigadier90/notes/C#/learn-c-sharp/learn-c-sharp/obj/x86/Debug/learn-c-sharp.csprojAssemblyReference.cache
+/Users/Brigadier90/notes/C#/learn-c-sharp/learn-c-sharp/obj/x86/Debug/learn-c-sharp.csproj.CoreCompileInputs.cache
+/Users/Brigadier90/notes/C#/learn-c-sharp/learn-c-sharp/obj/x86/Debug/learn-c-sharp.exe
+/Users/Brigadier90/notes/C#/learn-c-sharp/learn-c-sharp/obj/x86/Debug/learn-c-sharp.pdb

@@ -1,0 +1,25 @@
+body {
+	background: #aaaaaa;
+
+
+}
+
+img.blog {
+	width: 100px;
+}
+
+img.thumb {
+	width: 50px;
+}
+
+.signup-form {
+	
+}
+
+.logout-form {
+	display: inline-block;
+}
+
+.article-create-form input{
+	display: block;
+}

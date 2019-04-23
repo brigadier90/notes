@@ -1,0 +1,55 @@
+﻿@model Vidly_s03.ViewModels.CustomerFormViewModel
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>New</h2>
+@* form will call create action in customers controller
+    we wrap in 'using because 'BeginForm' only renders <form>
+    but it is a disposable object therefore when we wrap it will be
+    disposed at the end of the using block at which pointit will render </form>*@
+@using (Html.BeginForm("Save", "Customers"))
+{
+
+    @Html.ValidationSummary(true, "Please fix the following errors:") @*true removes individual property errors*@
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)
+        @*m stantds for model not movie. this method will include data-val attributes for input element
+            based on model definition*@
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Name)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Birthdate)
+        @Html.TextBoxFor(m => m.Customer.Birthdate, "{0:d MMM yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Birthdate)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.MembershipTypeId)
+        @*supply list of items as second argument to DropDownListFor*@
+        @Html.DropDownListFor(m => m.Customer.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "Select Membership Type", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.MembershipTypeId)
+    </div>
+    @*following bootstrap markup for checkbox including everything above*@
+    <div class="chekbox">
+        <label>
+            @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsletter) Is Subscribed To NewsLetter
+        </label>
+    </div>
+
+    @Html.HiddenFor(m => m.Customer.Id);
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
+@section scripts 
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+

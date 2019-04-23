@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7F255EBA-9D79-4290-A418-66784869F5D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/Program.cs">
+    <Files>
+      <File FileName="DesignPatterns/StatePattern/Context/Gate.cs" Line="8" Column="45" />
+      <File FileName="DesignPatterns/StatePattern/State/IGateState.cs" Line="7" Column="6" />
+      <File FileName="DesignPatterns/StatePattern/State/ProcessingGateState.cs" Line="15" Column="9" />
+      <File FileName="DesignPatterns/StatePattern/State/OpenGateState.cs" Line="37" Column="51" />
+      <File FileName="DesignPatterns/StatePattern/State/ClosedGateState.cs" Line="36" Column="44" />
+      <File FileName="DesignPatterns/Program.cs" Line="111" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatterns" expanded="True">
+            <Node name="DesignPatterns" expanded="True">
+              <Node name="StatePattern" expanded="True">
+                <Node name="Context" expanded="True" />
+                <Node name="State" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

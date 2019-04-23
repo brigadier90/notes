@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vue Tutorials</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+<body>
+
+	<!--say we want an h1 with name and p with job-->
+	<div id="vue-app">
+		<h1>Events</h1>
+
+		<button v-on:click="add(1)">Add 1 Year</button>
+		<button v-on:click="sub(-1)">Sub 1 Year</button>
+		<button v-on:dblclick="add(10)">Add 10 Year</button>
+		<button v-on:dblclick="sub(-10)">Sub 10 Year</button>
+		<h2>{{age}}</h2>
+
+		<!--NOTE: @ and v-on smae thing-->
+
+		<div id="canvas" @mousemove="updateXY">
+			{{x}}, {{y}}
+		</div>
+	</div>
+
+
+
+
+	<script src="app.js"></script>
+
+	
+	
+</body>
+</html>

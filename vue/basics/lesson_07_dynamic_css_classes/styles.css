@@ -1,0 +1,15 @@
+span {
+	background: red;
+	padding: 5px 10px;
+	color: #ffffff;
+}
+
+
+.available span {
+		background: green;
+}
+
+.nearby span:after {
+	content: "nearby";
+	margin-left: 10px;
+}

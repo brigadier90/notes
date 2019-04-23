@@ -1,0 +1,17 @@
+{% extends 'base_layout.html' %}
+
+{% block content %}
+
+	<section class="article-detail">
+		<h1>Create a new article</h1>
+
+		<form action="{% url 'articles:create' %}" method="POST" class="article-create-form" enctype="multipart/form-data" > <!--enctype is included because we have an upload field-->
+			
+			{% csrf_token %}
+			{{form}}
+			<input type="submit" text="Create Article">
+		</form>
+
+	</section>
+
+{% endblock %}

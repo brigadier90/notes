@@ -1,0 +1,40 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Wrapper, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CLI.ManagedObject<Core::Entity>: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Core.Entity*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class CLI.Entity: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :CLI.ManagedObject<Core::Entity>
+    Void .ctor(System.String, Single, Single): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Single YPosition 'get set' : 
+    Single XPosition 'get set' : 
+  Methods:
+    Move(Single, Single): PrivateScope, Public, HideBySig
+    get_XPosition(): PrivateScope, Public, HideBySig, SpecialName
+    get_YPosition(): PrivateScope, Public, HideBySig, SpecialName
+Class CLI.ManagedObject<Core::MyAPI>: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Core.MyAPI*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class CLI.MyAPI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :CLI.ManagedObject<Core::MyAPI>
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    connect(): PrivateScope, Public, HideBySig
+Class Wrapper.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

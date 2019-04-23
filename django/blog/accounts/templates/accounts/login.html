@@ -1,0 +1,23 @@
+{% extends 'base_layout.html' %}
+
+{% block content %}
+	<h1>Login Form</h1>
+
+	<form action="{% url 'accounts:login' %}" method="POST" class="login-form">
+		{% csrf_token %}
+		
+		{{form}}
+
+		{% if request.GET.next %} <!--THIS IS AUTOMATICALLY SET BY DJANGO-->
+			<input type="hidden" name="next" value= "{{request.GET.next}}">
+		{% endif %}
+
+		<input type="submit" value="Login">
+
+		
+
+	</form>
+
+
+
+{% endblock %}

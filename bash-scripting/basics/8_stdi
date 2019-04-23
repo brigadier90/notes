@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#stdi is 0>
+
+echo "Please enter your name: "
+read myname #no dollar sign needed when creating var
+echo "You entered $myname" #dollar sign needed

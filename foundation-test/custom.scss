@@ -1,0 +1,61 @@
+@import 'bower_components/foundation-sites/scss/settings/settings';
+@import 'bower_components/foundation-sites/scss/foundation';
+@import "font-awesome.min.scss";
+
+@include foundation-everything;
+
+//MY MIXINS
+	@mixin prefix($property, $value) {
+		
+		#{'-' + moz + '-' + $property}: $value;
+		#{'-' + ms + '-' + $property}: $value;
+		#{'-' + webkit + '-' + $property}: $value;
+
+
+		// Output standard non-prefixed declaration
+		#{$property}: $value;
+	}
+//END MY MIXINS
+
+
+//TEXT COLORS
+	@each $name, $color in $foundation-palette {
+	  .text-#{$name} {
+	    color: $color;
+	  }
+	}
+
+//END TEXT COLOR
+
+//BACKGROUND COLORS
+	@each $name, $color in $foundation-palette {
+	  .bg-#{$name} {
+	    background: $color;
+	  }
+	}
+
+//END BACKGROUND COLORS
+
+//LINK COLORS
+	@each $name, $color in $foundation-palette {
+		.link-#{$name} {
+			color: $color;
+
+			&:hover, &:focus {
+				color: lighten($color, 20%);
+			}
+
+		}
+	}
+//END LINK COLORS
+
+
+//IMPORTS
+	@import "animate";
+	@import "main-menu";
+
+
+//END IMPORTS
+
+
+

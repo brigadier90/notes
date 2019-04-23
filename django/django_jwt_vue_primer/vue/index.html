@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vue Tutorials</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+<body>
+
+	
+	<div id="vue-app">
+
+		<h1>Dynamic CSS</h1>
+		<h2>Example 1</h2>
+	
+		<!--v-bind:class expects an object hence the {} - not to be confused with {{}} (template tags)-->
+		<!--format: {classname: boolean} where boolean can be a property from vue object-->
+		<!--<div v-on:click="available = !available" v-bind:class="{available: available}">
+			<span>Ali</span>
+		</div>-->
+
+
+		<h2>Example 2</h2>
+		<button v-on:click="nearby = !nearby">toggle nearby</button>
+		<button v-on:click="available = !available">toggle available</button>
+		<div v-bind:class="compClasses">
+			<span>Ali</span>
+		</div>
+	</div>
+
+
+
+
+	<script src="app.js"></script>
+
+	
+	
+</body>
+</html>

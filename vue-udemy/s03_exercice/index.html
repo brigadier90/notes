@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://npmcdn.com/vue/dist/vue.js"></script>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
+<script src="app.js"></script>
+
+	<div id="app">
+
+		<!--1) show one paragraph or antoher using v-if and v-show. Show hides, if removes from dom-->
+		<div>
+			<button @click="show = !show">Switch Paragraphs</button>
+
+			<h2>Using v-if</h2>
+			<p v-if="show">Show is on!</p>
+			<p v-else>Show is off :(</p>
+
+			<h2>Using v-if</h2>
+			<p v-show="show">Show is on!</p>
+			<p v-show="!show">Show is off :(</p>
+		</div>
+
+		<hr>
+
+		<!--2) print any array in list with index-->
+		<div>
+			<h2>without template</h2>
+			<ul>
+				<li v-for="(item, index ) in shoppingList">item: {{item}}, index: {{index}}</li>
+			</ul>
+
+			<h2>with template</h2>
+			<template v-for="(item, index ) in shoppingList">
+
+				<h5>item: {{item}}</h5>
+				<p>index: {{index}}</p>
+
+			</template>
+		</div>
+
+		<hr>
+
+		<!--3) print kv for object as well as index of each kv pair-->
+
+		<div>
+			<h2>without template</h2>
+			<ul>
+				<li v-for="(v, k, index ) in book">key: {{k}}, value: {{v}}, index: {{index}}</li>
+			</ul>
+
+			<h2>with template</h2>
+
+			<template v-for="(v, k, index) in book">
+
+				<h5>({{index}}) {{k}}</h5>
+				<p>{{v}}</p>
+
+			</template>
+		</div>
+
+		<!--4) print kv for object as well as index of each kv pair plus nested array-->
+
+		<div>
+
+			<h2>Without template</h2>
+			<ul>
+			    <li v-for="value in grades">
+					<template v-if="Array.isArray(value)">
+						<div v-for="element in value">{{element}}%</div>
+					</template>
+					<template v-else>
+						{{value}}
+					</template>
+			    </li>
+			</ul>
+
+			<h2>with template</h2>
+
+			<template v-for="(v, k, index) in grades">
+
+				<template v-if="Array.isArray(v)">
+					<p>grades: </p>
+					<ul>
+						<li v-for="item in v">{{item}}%</li>
+					</ul>
+				</template>
+				<template v-else>
+					<h5>({{index}}) {{k}}</h5>
+					<p>{{v}}</p>
+				</template>
+				
+
+			</template>
+		</div>
+
+
+
+	</div>
+
+	<script src="app.js"></script>
+	
+</body>
+</html>

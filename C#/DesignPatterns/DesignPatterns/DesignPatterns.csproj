@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{7F255EBA-9D79-4290-A418-66784869F5D9}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DesignPatterns</RootNamespace>
+    <AssemblyName>DesignPatterns</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startegy Design\Duck.cs" />
+    <Compile Include="Startegy Design\Behaviours\LongQuack.cs" />
+    <Compile Include="Startegy Design\Interfaces\IQuackBehaviour.cs" />
+    <Compile Include="Startegy Design\Behaviours\LoudQuack.cs" />
+    <Compile Include="Startegy Design\Behaviours\CuteQuack.cs" />
+    <Compile Include="Observer Pattern\Interfaces\IObservable.cs" />
+    <Compile Include="Observer Pattern\Interfaces\IObserver.cs" />
+    <Compile Include="Observer Pattern\Concretes\WeatherStation.cs" />
+    <Compile Include="Observer Pattern\Concretes\FlatScreenDisplay.cs" />
+    <Compile Include="Decorator Pattern\Components\ABeverageComponent.cs" />
+    <Compile Include="Decorator Pattern\Concrete Components\Espresso.cs" />
+    <Compile Include="Decorator Pattern\Decorators\BeverageDecorator.cs" />
+    <Compile Include="Decorator Pattern\Concrete Decorators\Caramel.cs" />
+    <Compile Include="Decorator Pattern\Concrete Decorators\SoyMilk.cs" />
+    <Compile Include="Decorator Pattern\Concrete Components\Latte.cs" />
+    <Compile Include="Command Pattern\Receivers\LightBulb.cs" />
+    <Compile Include="Command Pattern\Interfaces\ICommand.cs" />
+    <Compile Include="Command Pattern\Concrete Commands\LightOnCommand.cs" />
+    <Compile Include="Command Pattern\Concrete Commands\LightOffCommand%28%29.cs" />
+    <Compile Include="Command Pattern\Invokers\LightBulbRemoteControlInvoker.cs" />
+    <Compile Include="Adapter Pattern\Interfaces\Shape.cs" />
+    <Compile Include="Adapter Pattern\LineShape.cs" />
+    <Compile Include="Adapter Pattern\SquareShape.cs" />
+    <Compile Include="Adapter Pattern\Client\DrawingEditor.cs" />
+    <Compile Include="Adapter Pattern\TextView.cs" />
+    <Compile Include="Adapter Pattern\TextShapeAdapter.cs" />
+    <Compile Include="Bridge Pattern\Abtraction\View.cs" />
+    <Compile Include="Bridge Pattern\Implementation\IResource.cs" />
+    <Compile Include="Bridge Pattern\Concrete Abstraction\LongFormView.cs" />
+    <Compile Include="Bridge Pattern\Concrete Abstraction\ShortFormView.cs" />
+    <Compile Include="Bridge Pattern\Concrete Implementation\BookResource.cs" />
+    <Compile Include="Bridge Pattern\Book.cs" />
+    <Compile Include="Bridge Pattern\Album.cs" />
+    <Compile Include="Bridge Pattern\Concrete Implementation\AlbumResource.cs" />
+    <Compile Include="Template Method Pattern\Abstract Classes\Model.cs" />
+    <Compile Include="Template Method Pattern\Concrete Classes\User.cs" />
+    <Compile Include="Template Method Pattern\Concrete Classes\Post.cs" />
+    <Compile Include="StatePattern\Context\Gate.cs" />
+    <Compile Include="StatePattern\State\IGateState.cs" />
+    <Compile Include="StatePattern\State\OpenGateState.cs" />
+    <Compile Include="StatePattern\State\ClosedGateState.cs" />
+    <Compile Include="StatePattern\State\ProcessingGateState.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Startegy Design\" />
+    <Folder Include="Startegy Design\Interfaces\" />
+    <Folder Include="Startegy Design\Behaviours\" />
+    <Folder Include="Observer Pattern\" />
+    <Folder Include="Observer Pattern\Interfaces\" />
+    <Folder Include="Observer Pattern\Concretes\" />
+    <Folder Include="Decorator Pattern\" />
+    <Folder Include="Decorator Pattern\Components\" />
+    <Folder Include="Decorator Pattern\Concrete Components\" />
+    <Folder Include="Decorator Pattern\Decorators\" />
+    <Folder Include="Decorator Pattern\Concrete Decorators\" />
+    <Folder Include="Command Pattern\" />
+    <Folder Include="Command Pattern\Receivers\" />
+    <Folder Include="Command Pattern\Interfaces\" />
+    <Folder Include="Command Pattern\Concrete Commands\" />
+    <Folder Include="Command Pattern\Invokers\" />
+    <Folder Include="Adapter Pattern\" />
+    <Folder Include="Adapter Pattern\Client\" />
+    <Folder Include="Adapter Pattern\Interfaces\" />
+    <Folder Include="Bridge Pattern\" />
+    <Folder Include="Bridge Pattern\Abtraction\" />
+    <Folder Include="Bridge Pattern\Implementation\" />
+    <Folder Include="Bridge Pattern\Concrete Abstraction\" />
+    <Folder Include="Bridge Pattern\Concrete Implementation\" />
+    <Folder Include="Template Method Pattern\" />
+    <Folder Include="Template Method Pattern\Abstract Classes\" />
+    <Folder Include="Template Method Pattern\Concrete Classes\" />
+    <Folder Include="StatePattern\" />
+    <Folder Include="StatePattern\Context\" />
+    <Folder Include="StatePattern\State\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

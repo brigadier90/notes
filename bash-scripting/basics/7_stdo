@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# 1> is stdo
+# > redirects output. example ls -l > filelist.txt redirects output to filelist.txt file (smae as 1>)
+
+#/dev/null <- vurtual device that is kind of like a blackhole. anything that gets copied there is gone. 
+
+# >> moves standard output to the end of the file; appends
+
+
+

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#simply type commands to run them
+df -h

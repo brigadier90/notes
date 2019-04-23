@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Vue Tutorials</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+<body>
+
+	
+	<div id="vue-app">
+
+		<h1>Computed Properties</h1>
+
+		<button v-on:click="a++">Add to a</button>
+		<button v-on:click="b++">Add to b</button>
+
+		<p>A - {{a}}</p>
+		<p>B - {{b}}</p>
+		<!--problem is changing only A calls both below functions. fix: see computed property in vue object-->
+		<!--DO NOT INCLUDE () in the following calls since addToA and addToB are not methods-->
+		<p>Age + a = {{addToA}}</p>
+		<p>Age + b = {{addToB}}</p>
+
+	</div>
+
+
+
+
+	<script src="app.js"></script>
+
+	
+	
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "blog-tutorial",
+  "description": "a blog used to learn django",
+  "main": "index.js",
+  "authors": [
+    "Ali <ali.nasrat9@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "blog"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}

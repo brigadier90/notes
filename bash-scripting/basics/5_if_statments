@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+num1=100
+
+#keep in mnd tabs not necessary
+
+if [ $num1 -eq 200 ]
+then
+	echo "equal to 200"
+else
+	echo "not equal to 200"
+fi
+	
+

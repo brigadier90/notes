@@ -1,0 +1,25 @@
+{
+  "name": "django-blog",
+  "version": "1.0.0",
+  "description": "a blog used to learn django",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-util": "^3.0.8",
+    "jshint-stylish": "^2.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "bower": "^1.8.4",
+    "foundation-sites": "^6.5.0-rc.2",
+    "gulp-connect": "^5.5.0",
+    "gulpfile-django": "0.0.12"
+  }
+}

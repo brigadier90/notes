@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{993283C4-921E-4438-A1AD-DD3D6CC176A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="learn-c-sharp/Program.cs">
+    <Files>
+      <File FileName="learn-c-sharp/Program.cs" Line="18" Column="13" />
+      <File FileName="learn-c-sharp/lazy/Lazy.cs" Line="11" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="learn-c-sharp" expanded="True">
+            <Node name="learn-c-sharp" expanded="True">
+              <Node name="lazy" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.learn-c-sharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

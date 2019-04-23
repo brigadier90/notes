@@ -1,0 +1,6 @@
+/Users/Brigadier90/notes/C#/DesignPatterns/DesignPatterns/bin/Debug/DesignPatterns.exe
+/Users/Brigadier90/notes/C#/DesignPatterns/DesignPatterns/bin/Debug/DesignPatterns.pdb
+/Users/Brigadier90/notes/C#/DesignPatterns/DesignPatterns/obj/x86/Debug/DesignPatterns.csprojAssemblyReference.cache
+/Users/Brigadier90/notes/C#/DesignPatterns/DesignPatterns/obj/x86/Debug/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/Brigadier90/notes/C#/DesignPatterns/DesignPatterns/obj/x86/Debug/DesignPatterns.exe
+/Users/Brigadier90/notes/C#/DesignPatterns/DesignPatterns/obj/x86/Debug/DesignPatterns.pdb

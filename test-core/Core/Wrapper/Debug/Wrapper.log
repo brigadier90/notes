@@ -1,0 +1,4 @@
+﻿  MyAPI.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Core.lib(Entity.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Wrapper.vcxproj -> C:\Users\brigadier90\Desktop\test-core\Core\Debug\Wrapper.dll

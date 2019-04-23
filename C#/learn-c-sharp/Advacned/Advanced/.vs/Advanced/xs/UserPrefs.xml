@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2CE11FEA-DA9F-4F1E-93F8-E5665FE62947}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lambda Expressions/LambdaExpressionTest.cs">
+    <Files>
+      <File FileName="Program.cs" Line="62" Column="57" />
+      <File FileName="Delegates/PhotoProcessor.cs" Line="1" Column="14" />
+      <File FileName="Lambda Expressions/LambdaExpressionTest.cs" Line="31" Column="40" />
+      <File FileName="GenericsClasses.cs" Line="62" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Advanced" expanded="True">
+            <Node name="Advanced" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Delegates" expanded="True" />
+              <Node name="Lambda Expressions" expanded="True">
+                <Node name="LambdaExpressionTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Advanced PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

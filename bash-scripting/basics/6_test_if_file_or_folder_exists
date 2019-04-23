@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#-d means directory, -f tests for files
+
+if [ -d ~/notes/bash-scripting/basics/test-folder ]
+	then
+		echo "the folder exists"
+	else
+		echo "the folder does not exist"
+fi
+
+
