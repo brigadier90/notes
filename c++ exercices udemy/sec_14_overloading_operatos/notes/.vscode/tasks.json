@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            
+            "label": "build",
+            "type": "shell",
+            "command": "g++ -std=c++14 -fno-elide-constructors -g main.cpp MyString.cpp -o main",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher":"$gcc",
+            
+        }
+    ]
+}
