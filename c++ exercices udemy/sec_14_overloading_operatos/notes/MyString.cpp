@@ -160,7 +160,7 @@ std::ostream &operator<<(std::ostream &os, const MyString &rhs) {
 }
 
 //overloaded extraction operator
-std::istream &operator<<(std::istream &is, MyString &rhs) {
+std::istream &operator>>(std::istream &is, MyString &rhs) {
     char * buff = new char[1000]; //bad way but not the point of this exercice
     is >> buff;
     rhs = MyString{buff}; //this will use move assignment and steal the pointer - very efficient
