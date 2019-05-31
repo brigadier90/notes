@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build",
+        "type": "shell",
+        "command": "g++ -std=c++14 Account.cpp SavingsAccount.cpp CheckingAccount.cpp TrustAccount.cpp AccountUtil.cpp IPrintable.cpp main.cpp -o main.out",
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": "$gcc"
+      },
+    ]
+  }
